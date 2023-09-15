@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/receipeapp-react/static/css/main.7ae601fe.css",
+    "main.js": "/receipeapp-react/static/js/main.93fd3f05.js",
+    "index.html": "/receipeapp-react/index.html",
+    "main.7ae601fe.css.map": "/receipeapp-react/static/css/main.7ae601fe.css.map",
+    "main.93fd3f05.js.map": "/receipeapp-react/static/js/main.93fd3f05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae601fe.css",
+    "static/js/main.93fd3f05.js"
+  ]
+}
